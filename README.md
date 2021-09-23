@@ -1,2 +1,2 @@
 # katacoda-scenarios
-For use with Katacoda. https://www.katacoda.com/ryanh19d
+For use with Katacoda. https://katacoda.com/ryanh19d
